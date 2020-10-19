@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Damla Senol Cali</title>
+    <link>https://damlasenolcali.github.io/talk/</link>
+      <atom:link href="https://damlasenolcali.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://damlasenolcali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://damlasenolcali.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>GenASM: A Low-Power, Memory-Efficient Approximate String Matching Acceleration Framework for Genome Sequence Analysis</title>
+      <link>https://damlasenolcali.github.io/talk/genasm-armsummit20/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/talk/genasm-armsummit20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BitMAC: An In-Memory Accelerator for Bitvector-Based Sequence Alignment of Both Short and Long Genomic Reads</title>
+      <link>https://damlasenolcali.github.io/talk/techcon19-bitmac/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/talk/techcon19-bitmac/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Top 10 Best Student Presenter Award&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nanopore Sequencing Technology and Tools for Genome Assembly: Computational Analysis of the Current State, Bottlenecks and Future Directions</title>
+      <link>https://damlasenolcali.github.io/talk/aacbb19-nanopore/</link>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/talk/aacbb19-nanopore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Approximate Pattern Matching with Processing-In- Memory (PIM) and Single-Instruction Multiple-Data (SIMD) Programing</title>
+      <link>https://damlasenolcali.github.io/talk/recomb18-bitmac/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/talk/recomb18-bitmac/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Best Poster Award&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

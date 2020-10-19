@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Damla Senol Cali</title>
+    <link>https://damlasenolcali.github.io/publication/</link>
+      <atom:link href="https://damlasenolcali.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://damlasenolcali.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://damlasenolcali.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis</title>
+      <link>https://damlasenolcali.github.io/publication/genasm/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/genasm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Genome Analysis: A Primer on an Ongoing Journey</title>
+      <link>https://damlasenolcali.github.io/publication/accelerating-genome-analysis/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/accelerating-genome-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apollo: A Sequencing-Technology-Independent, Scalable, and Accurate Assembly Polishing Algorithm</title>
+      <link>https://damlasenolcali.github.io/publication/apollo/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/apollo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demystifying Workload–DRAM Interactions: An Experimental Study</title>
+      <link>https://damlasenolcali.github.io/publication/dram-workloads/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/dram-workloads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanopore Sequencing Technology and Tools for Genome Assembly: Computational Analysis of the Current State, Bottlenecks and Future Directions</title>
+      <link>https://damlasenolcali.github.io/publication/nanopore/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/nanopore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRIM-Filter: Fast Seed Location Filtering in DNA Read Mapping Using Processing-in-Memory Technologies</title>
+      <link>https://damlasenolcali.github.io/publication/grim-filter/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/grim-filter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
