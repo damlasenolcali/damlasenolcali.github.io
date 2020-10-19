@@ -1,1 +1,0 @@
-Damla Senol Cali
