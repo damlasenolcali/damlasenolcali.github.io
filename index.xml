@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Damla Senol Cali</title>
+    <link>https://damlasenolcali.github.io/</link>
+      <atom:link href="https://damlasenolcali.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Damla Senol Cali</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://damlasenolcali.github.io/images/icon_hu1b2f0b1b04e09e2c37f03df69e02deaf_73768_512x512_fill_lanczos_center_2.png</url>
+      <title>Damla Senol Cali</title>
+      <link>https://damlasenolcali.github.io/</link>
+    </image>
+    
+    <item>
+      <title>GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis</title>
+      <link>https://damlasenolcali.github.io/publication/genasm/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/genasm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenASM: A Low-Power, Memory-Efficient Approximate String Matching Acceleration Framework for Genome Sequence Analysis</title>
+      <link>https://damlasenolcali.github.io/talk/genasm-armsummit20/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/talk/genasm-armsummit20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Genome Analysis: A Primer on an Ongoing Journey</title>
+      <link>https://damlasenolcali.github.io/publication/accelerating-genome-analysis/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/accelerating-genome-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apollo: A Sequencing-Technology-Independent, Scalable, and Accurate Assembly Polishing Algorithm</title>
+      <link>https://damlasenolcali.github.io/publication/apollo/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/apollo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BitMAC: An In-Memory Accelerator for Bitvector-Based Sequence Alignment of Both Short and Long Genomic Reads</title>
+      <link>https://damlasenolcali.github.io/talk/techcon19-bitmac/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/talk/techcon19-bitmac/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Top 10 Best Student Presenter Award&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Demystifying Workload–DRAM Interactions: An Experimental Study</title>
+      <link>https://damlasenolcali.github.io/publication/dram-workloads/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/dram-workloads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanopore Sequencing Technology and Tools for Genome Assembly: Computational Analysis of the Current State, Bottlenecks and Future Directions</title>
+      <link>https://damlasenolcali.github.io/talk/aacbb19-nanopore/</link>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/talk/aacbb19-nanopore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Approximate Pattern Matching with Processing-In- Memory (PIM) and Single-Instruction Multiple-Data (SIMD) Programing</title>
+      <link>https://damlasenolcali.github.io/talk/recomb18-bitmac/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/talk/recomb18-bitmac/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Best Poster Award&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nanopore Sequencing Technology and Tools for Genome Assembly: Computational Analysis of the Current State, Bottlenecks and Future Directions</title>
+      <link>https://damlasenolcali.github.io/publication/nanopore/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/nanopore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRIM-Filter: Fast Seed Location Filtering in DNA Read Mapping Using Processing-in-Memory Technologies</title>
+      <link>https://damlasenolcali.github.io/publication/grim-filter/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/grim-filter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rachata Ausavarungnirun | Damla Senol Cali</title>
+    <link>https://damlasenolcali.github.io/author/rachata-ausavarungnirun/</link>
+      <atom:link href="https://damlasenolcali.github.io/author/rachata-ausavarungnirun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rachata Ausavarungnirun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://damlasenolcali.github.io/images/icon_hu1b2f0b1b04e09e2c37f03df69e02deaf_73768_512x512_fill_lanczos_center_2.png</url>
+      <title>Rachata Ausavarungnirun</title>
+      <link>https://damlasenolcali.github.io/author/rachata-ausavarungnirun/</link>
+    </image>
+    
+    <item>
+      <title>GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis</title>
+      <link>https://damlasenolcali.github.io/publication/genasm/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/genasm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

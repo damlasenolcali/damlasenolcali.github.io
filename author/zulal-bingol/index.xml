@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zulal Bingol | Damla Senol Cali</title>
+    <link>https://damlasenolcali.github.io/author/zulal-bingol/</link>
+      <atom:link href="https://damlasenolcali.github.io/author/zulal-bingol/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zulal Bingol</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://damlasenolcali.github.io/images/icon_hu1b2f0b1b04e09e2c37f03df69e02deaf_73768_512x512_fill_lanczos_center_2.png</url>
+      <title>Zulal Bingol</title>
+      <link>https://damlasenolcali.github.io/author/zulal-bingol/</link>
+    </image>
+    
+    <item>
+      <title>GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis</title>
+      <link>https://damlasenolcali.github.io/publication/genasm/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/genasm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Genome Analysis: A Primer on an Ongoing Journey</title>
+      <link>https://damlasenolcali.github.io/publication/accelerating-genome-analysis/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/accelerating-genome-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
