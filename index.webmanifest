@@ -5,12 +5,8 @@
   "theme_color": "#2962ff",
   "background_color": "#2962ff",
   "icons": [{
-    "src": "/images/DSC_logo_192x192.svg",
-    "sizes": "192x192"
-    }, {
-    "src": "/images/DSC_logo_512x512.svg",
-    "sizes": "512x512"
-     }],
+    "src": "/images/DSC_logo.svg"
+    }],
   "display": "standalone",
   "start_url": "/?utm_source=web_app_manifest"
 }
