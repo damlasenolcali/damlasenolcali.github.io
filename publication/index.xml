@@ -7,7 +7,7 @@
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://damlasenolcali.github.io/images/icon_hu1b2f0b1b04e09e2c37f03df69e02deaf_73768_512x512_fill_lanczos_center_2.png</url>
+      <url>https://damlasenolcali.github.io/images/DSC_logo.svg</url>
       <title>Publications</title>
       <link>https://damlasenolcali.github.io/publication/</link>
     </image>
@@ -21,30 +21,6 @@
     </item>
     
     <item>
-      <title>Accelerating Genome Analysis: A Primer on an Ongoing Journey</title>
-      <link>https://damlasenolcali.github.io/publication/accelerating-genome-analysis/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://damlasenolcali.github.io/publication/accelerating-genome-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apollo: A Sequencing-Technology-Independent, Scalable, and Accurate Assembly Polishing Algorithm</title>
-      <link>https://damlasenolcali.github.io/publication/apollo/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://damlasenolcali.github.io/publication/apollo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demystifying Workload–DRAM Interactions: An Experimental Study</title>
-      <link>https://damlasenolcali.github.io/publication/dram-workloads/</link>
-      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://damlasenolcali.github.io/publication/dram-workloads/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nanopore Sequencing Technology and Tools for Genome Assembly: Computational Analysis of the Current State, Bottlenecks and Future Directions</title>
       <link>https://damlasenolcali.github.io/publication/nanopore/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
@@ -53,10 +29,10 @@
     </item>
     
     <item>
-      <title>GRIM-Filter: Fast Seed Location Filtering in DNA Read Mapping Using Processing-in-Memory Technologies</title>
-      <link>https://damlasenolcali.github.io/publication/grim-filter/</link>
-      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://damlasenolcali.github.io/publication/grim-filter/</guid>
+      <title>SeGraM: A Universal Hardware Accelerator for Genomic Sequence-to-Graph and Sequence-to-Sequence Mapping</title>
+      <link>https://damlasenolcali.github.io/publication/segram/</link>
+      <pubDate>Tue, 21 Jun 202 00:00:00 +0000</pubDate>
+      <guid>https://damlasenolcali.github.io/publication/segram/</guid>
       <description></description>
     </item>
     
